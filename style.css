@@ -10,7 +10,7 @@ body {
     background-color: var(--Light_gray);
 }
 .card { 
-    width: 270px;
+    width: 20px;
     background-color: var(--White);
     text-align: center;
     padding: 20px;
